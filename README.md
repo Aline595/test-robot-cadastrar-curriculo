@@ -1,6 +1,6 @@
 # Teste de cadastro de currículo
 ## Sobre 
-Teste automatizado com robot framework para valida a funcionalidade de cadastrar curriculo no site https://www.primecontrol.com.br/
+Teste automatizado com robot framework para validar a funcionalidade de cadastrar curriculo no site https://www.primecontrol.com.br/
 
 ## Como executar
 
